@@ -1,4 +1,4 @@
-# CSM152_VHDL
+# CSM152 Verilog and VDHL DIgital Design
 UCLA FPGA and Digital Lab Desgin
 
 | Lab        | Description | Grade |
